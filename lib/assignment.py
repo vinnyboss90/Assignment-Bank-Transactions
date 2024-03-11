@@ -1,6 +1,4 @@
-
-import datetime
-
+from datetime import datetime
 
 def solution(A, D, N):
     # Initialize variables
